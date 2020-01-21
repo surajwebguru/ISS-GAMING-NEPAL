@@ -1,6 +1,6 @@
 /* =================================
 ------------------------------------
-  Game Warrior Template
+  ISS GAMING NEPAL
   Version: 1.0
  ------------------------------------ 
  ====================================*/
@@ -259,6 +259,11 @@ ol {
 	display: inline-block;
 	float: left;
 	padding-top: 6px;
+
+}
+.site-logo img{
+	width: 150px;
+	height: auto;
 }
 
 .user-panel {
@@ -1320,4 +1325,19 @@ ol {
 	.page-info-section .pi-content h2 {
 		font-size: 40px;
 	}
+}
+th, td{
+border: 1px solid red;padding: 10px;
+
+
+}
+table{
+
+	border-collapse: collapse;
+	width: 100%;
+	font-family: arial, sans-serif;
+}
+th{
+	font-weight: bold;
+	text-transform: uppercase;
 }
